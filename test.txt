@@ -5,3 +5,5 @@ lzg
 hhhhh
 
 add func1
+
+add func2
